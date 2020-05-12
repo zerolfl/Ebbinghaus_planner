@@ -16,10 +16,10 @@
 
 > 需要MATLAB R2019a之后的版本
 
-![Demo](.\figs\Demo_app.png)
+![Demo](https://github.com/zerolfl/Ebbinghaus_planner/blob/master/figs/Demo_app.png)
 
 ### .m文件
 
 运行`Ebbinghaus_planner`: 
 
-![Demo](.\figs\Demo_m.png)
+![Demo](https://github.com/zerolfl/Ebbinghaus_planner/blob/master/figs/Demo_m.png)
